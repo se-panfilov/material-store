@@ -1,0 +1,8 @@
+{
+  "NODE_ENV": "development",
+  "PORT": 3000,
+  "MONGO_URL": "mongodb://localhost:27017/material-store",
+  "REDIS_URL": "redis://localhost:6379",
+  "SESSION_SECRET": "51a68dc26ff6d98c9a8a50b22402e8f5f7688612",
+  "SESSION_COOKIE": "d338f365e76c1c8f9334c580c35922199e5bb18e"
+}

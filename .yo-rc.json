@@ -1,0 +1,9 @@
+{
+  "generator-derby": {
+    "project": "material store",
+    "apps": [
+      "material-shop"
+    ],
+    "coffee": false
+  }
+}
